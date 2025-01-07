@@ -1,0 +1,76 @@
+[
+    {
+        "title": "Game Categories",
+        "children": [
+            {
+                "title": "Action Games",
+                "path": "/action-games/"
+            },
+            {
+                "title": "Role Playing Games",
+                "path": "/role-playing-rpg-games/"
+            },
+            {
+                "title": "Adventure Games",
+                "path": "/adventure-games/"
+            },
+            {
+                "title": "Strategy Games",
+                "path": "/strategy-games/"
+            },
+            {
+                "title": "Simulation Games",
+                "path": "/simulation-games/"
+            },
+            {
+                "title": "Sports Games",
+                "path": "/sports-games/"
+            },
+            {
+                "title": "Racing Games",
+                "path": "/racing-games/"
+            },
+            {
+                "title": "Turn Based Strategy Games",
+                "path": "/turn-based-strategy-games/"
+            },
+            {
+                "title": "Puzzle Games",
+                "path": "/puzzle-games/"
+            },
+            {
+                "title": "Educational Games",
+                "path": "/educational-games/"
+            }
+        ]
+    },
+    {
+        "title": "Top Games",
+        "path": "/top-games"
+    },
+    {
+        "title": "Game Sagas",
+        "children": [
+            {
+                "title": "Oregon Trail Games",
+                "path": "/game-saga/oregon-trail-saga/"
+            },
+            {
+                "title": "Civilization Games",
+                "path": "/game-saga/civilization-saga/"
+            },
+            {
+                "title": "Zork Games",
+                "path": "/game-saga/zork-saga/"
+            },
+            {
+                "title": "DOOM Games",
+                "path": "/game-saga/doom-saga/"
+            },
+            {
+                "title": "Warcraft Games",
+                "path": "/game-saga/warcraft-saga/"
+            }
+        ]
+    }
+]

@@ -1,0 +1,82 @@
+{
+    "action": {
+        "title": "Action",
+        "heading": "Action Games",
+        "expertDescription": "Immerse yourself in a world of heart-pounding excitement with our classic **DOS action games**. From the fast-paced, adrenaline-fueled intensity of first-person shooters to the precision platforming and puzzle-solving challenges of side-scrollers, there's an action-packed adventure for every gamer. Unleash your inner hero as you battle formidable foes, navigate treacherous terrains, and master the art of combat. With stunning pixel art visuals, captivating soundtracks, and addictive gameplay, our DOS action games offer an unparalleled gaming experience that will keep you on the edge of your seat.",
+        "conciseDescription": "Experience intense, fast-paced gameplay with our classic DOS action titles. Battle enemies, overcome challenges, and emerge victorious.",
+        "url": "action-games",
+        "count": 123
+    },
+    "rolePlaying": {
+        "title": "Role-Playing (RPG)",
+        "heading": "Role-Playing (RPG) Games",
+        "expertDescription": "Embark on epic quests, build legendary characters, and explore vast, immersive worlds in our collection of **DOS RPGs**. Immerse yourself in rich storylines, make critical decisions, and forge unforgettable bonds with companions. From high fantasy adventures to cyberpunk dystopias, our RPGs offer endless possibilities for character development and exploration. Experience the freedom to choose your path, master powerful abilities, and become a true hero.",
+        "conciseDescription": "Create your character, explore vast worlds, and battle enemies in our classic DOS RPGs.",
+        "url": "role-playing-rpg-games",
+        "count": 97
+    },
+    "adventure": {
+        "title": "Adventure",
+        "heading": "Adventure Games",
+        "expertDescription": "Unleash your inner explorer with our captivating **DOS adventure games**. Discover hidden secrets, solve intricate puzzles, and unravel compelling narratives. From atmospheric point-and-click adventures to immersive interactive storytelling experiences, our collection offers a wide range of challenges and rewards. Immerse yourself in richly detailed worlds, interact with memorable characters, and make choices that shape the outcome of your adventure.",
+        "conciseDescription": "Solve puzzles, explore worlds, and make choices in our DOS adventure games.",
+        "url": "adventure-games",
+        "count": 112
+    },
+    "strategy": {
+        "title": "Strategy",
+        "heading": "Strategy Games",
+        "expertDescription": "Prove your tactical genius with our challenging **DOS strategy games**. Build empires, command armies, and outmaneuver your opponents in epic battles. Develop ingenious strategies, manage resources, and make critical decisions that will determine the fate of your civilization. From turn-based grand strategy to real-time tactics, our collection offers a diverse range of challenges for players of all skill levels. Test your strategic prowess and become a master of warfare.",
+        "conciseDescription": "Build empires, command armies, and outsmart opponents in our DOS strategy games.",
+        "url": "strategy-games",
+        "count": 85
+    },
+    "simulation": {
+        "title": "Simulation",
+        "heading": "Simulation Games",
+        "expertDescription": "Experience the thrill of creating and managing virtual worlds with our diverse range of **DOS simulation games**. Build bustling cities, design efficient transportation systems, or take on the role of a virtual pilot. Immerse yourself in realistic environments, make critical decisions, and observe the consequences of your actions. From city-building and transportation management to flight simulation and business management, our collection offers a wide range of simulation experiences.",
+        "conciseDescription": "Build cities, manage businesses, or fly planes in our DOS simulation games.",
+        "url": "simulation-games",
+        "count": 105
+    },
+    "sports": {
+        "title": "Sports",
+        "heading": "Sports Games",
+        "expertDescription": "Experience the thrill of competition with our classic **DOS sports games**. From the fast-paced action of basketball and soccer to the precision of golf and tennis, our collection offers a variety of sports experiences. Compete against friends, challenge AI opponents, or create your own dream team. Master your skills, become a champion, and relive the golden age of sports gaming.",
+        "conciseDescription": "Play soccer, basketball, or tennis in our classic DOS sports games.",
+        "url": "sports-games",
+        "count": 78
+    },
+    "racing": {
+        "title": "Racing",
+        "heading": "Racing Games",
+        "expertDescription": "Feel the rush of adrenaline as you compete in high-speed races with our classic DOS racing games. From arcade-style thrills to realistic simulations, our collection offers a variety of racing experiences. Customize your car, upgrade your performance, and challenge your friends to intense multiplayer competitions. Experience the excitement of crossing the finish line first.",
+        "conciseDescription": "Race against opponents and become a driving champion in our DOS racing games.",
+        "url": "racing-games",
+        "count": 92
+    },
+    "turnBasedStrategy": {
+        "title": "Turn-based strategy",
+        "heading": "Turn Based Strategy Games",
+        "expertDescription": "Master the art of strategic planning with our DOS turn-based strategy games. Build your empire, command your armies, and outsmart your opponents in epic battles. Carefully consider your moves, manage resources, and adapt to changing circumstances. With a variety of game settings and challenges, our turn-based strategy games offer endless hours of strategic gameplay.",
+        "conciseDescription": "Build empires and outsmart opponents in our DOS turn-based strategy games.",
+        "url": "turn-based-strategy-games",
+        "count": 80
+    },
+    "puzzle": {
+        "title": "Puzzle",
+        "heading": "Puzzle Games",
+        "expertDescription": "Challenge your mind and sharpen your problem-solving skills with our engaging DOS puzzle games. From classic logic puzzles to mind-bending brain teasers, our collection offers a variety of challenges for all skill levels. Enjoy hours of fun and mental stimulation as you work your way through intricate puzzles and discover hidden solutions.",
+        "conciseDescription": "Solve puzzles and challenge your mind in our DOS puzzle games.",
+        "url": "puzzle-games",
+        "count": 101
+    },
+    "educational": {
+    "title": "Educational",
+    "heading": "Educational Games",
+    "expertDescription": "Explore our collection of DOS educational games designed to make learning fun and interactive. From math and science to history and language arts, our games cover a wide range of subjects to help enhance your knowledge and skills. Perfect for students and lifelong learners, these games combine education with entertainment for an engaging learning experience.",
+    "conciseDescription": "Learn and play with our DOS educational games covering various subjects.",
+    "url": "educational-games",
+    "count": 50
+}
+}

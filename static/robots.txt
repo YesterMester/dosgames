@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: /online/*/play/
+
+Sitemap: https://weplaydos.games/sitemap-index.xml
