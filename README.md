@@ -30,7 +30,7 @@ WePlayDOS brings classic DOS games to modern browsers using cutting-edge technol
    ```
 3. Start the development server:
    ```bash
-   gatsby develop
+   npm run develop
    ```
 4. Visit `http://localhost:8000` in your browser.
 
